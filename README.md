@@ -1,3 +1,27 @@
+## Description
+This is an e commerce app using Sanity to manage to product data and banner data allowing easy changes to the website. As well as the Stripe API allowing users to have a way of secure payment.
+
+## The technology used 
+React
+Next.JS
+Stripe API
+Sanity.io
+
+
+## Skills practiced 
+Clean folder and file structure 
+Hooks and refs usage
+State management using React Context API
+File routing and SSR with Next.JS
+First time using sanity as a unified content platform.
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
