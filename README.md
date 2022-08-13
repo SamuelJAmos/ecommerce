@@ -1,5 +1,3 @@
-TIMESTAMP AT 1:42 for https://www.youtube.com/watch?v=4mOkFXyxfsU
-
 ## Description
 This is an e commerce app using Sanity to manage to product data and banner data allowing easy changes to the website. As well as the Stripe API allowing users to have a way of secure payment.
 
